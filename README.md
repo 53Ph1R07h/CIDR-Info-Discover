@@ -69,21 +69,10 @@ abuse-mailbox: abuse@tci.ir
 
 ---
 
-## ⚡ Tips
-
-* Combine with your other tools for a full IP reconnaissance chain:
-
-  ```bash
-  ./GetIPAsn.sh <domain> | ./getcidr.sh
-  ```
-* Use `grep` or `jq` to extract CIDRs or ASNs for automation pipelines.
-
----
-
 ## 🧑‍💻 Author
 
 **Sephiroth (53Ph1R07h)**
-Part of the **Custools/PT** toolkit — custom pentesting utilities.
+custom pentesting utilities writer
 
 ---
 
